@@ -1,8 +1,13 @@
 ### Hi there 👋
 
 ## About Me
-My name is Jonathan and I'm a Peruvian software developer living in Brazil.
-I love my cats, read mangas and Dotear 😄
+Hi there o/<br>
+My name is Jonathan, and I'm a Peruvian software developer currently residing in Brazil.<br>
+I have a deep passion for programming, which I've seamlessly combined with my academic pursuits.<br>
+I hold a Ph.D. in computational modeling and a bachelors degree in mathematics <3.<br>
+When I'm not immersed in code or research, you'll find me enjoying the company of my beloved cats,<br>
+diving into captivating manga stories, and honing my skills in the world of DotA.<br>
+Balancing my love for mathematics and technology is a fulfilling journey that I'm truly dedicated to.
 
 ## Education 📖
 - Bachelor's degree in Mathematics from the Federal University of Espírito Santo (2011)
